@@ -6,7 +6,7 @@ Takes test-to-failure data and returns a reliability report. It fits life distri
 
 [Download for Windows / macOS](https://github.com/liu092111/Test2Fail-Toolkit/releases/latest) · [Sample report](sample_report.pdf)
 
-<img src="docs/workflow.gif" width="640" alt="Load data, fit distributions, compare survival, export the report">
+<img src="docs/workflow.gif" width="720" alt="Open the GUI, pick dataset-2.csv, enter 20,000 expected cycles, run the analysis, then scroll through the whole PDF report">
 
 </div>
 
