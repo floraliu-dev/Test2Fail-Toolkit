@@ -4,7 +4,7 @@
 
 Takes test-to-failure data and returns a reliability report. It fits life distributions, estimates B10/B50/MTTF and writes a PDF.
 
-[Download for Windows / macOS](https://github.com/liu092111/Test2Fail-Toolkit/releases/latest) · [Sample report](sample_report.pdf) · [Project page on floraliu.dev](https://floraliu.dev/work/test2fail)
+[Download for Windows / macOS](https://github.com/floraliu-dev/Test2Fail-Toolkit/releases/latest) · [Sample report](sample_report.pdf) · [Project page on floraliu.dev](https://floraliu.dev/work/test2fail)
 
 <img src="docs/workflow.gif" width="720" alt="Open the GUI, pick dataset-2.csv, enter 20,000 expected cycles, run the analysis, then scroll through the whole PDF report">
 
@@ -84,7 +84,7 @@ analyzer.calculate_maintenance_recommendations(
 
 輸入 test-to-failure 資料，產出可靠度報告。它會擬合壽命分布、估算 B10/B50/MTTF，並輸出 PDF。
 
-[下載 Windows / macOS 版](https://github.com/liu092111/Test2Fail-Toolkit/releases/latest) · [範例報告](sample_report.pdf)
+[下載 Windows / macOS 版](https://github.com/floraliu-dev/Test2Fail-Toolkit/releases/latest) · [範例報告](sample_report.pdf)
 
 ## 功能
 
